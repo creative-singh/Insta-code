@@ -1,1 +1,2 @@
-# Insta-code
+# Insta Daily Javascript Code
+
